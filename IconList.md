@@ -114,28 +114,29 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - zodiac-sagittarius
 - zodiac-capricorn
 - special-swappable
-- relationship-adult-father
-- relationship-adult-mother
-- relationship-adult-grandfather
-- relationship-adult-grandmother
-- relationship-adult-stepfather
-- relationship-adult-stepmother
-- relationship-child-son
-- relationship-child-daughter
-- relationship-child-grandson
-- relationship-child-granddaughter
-- relationship-husband
-- relationship-wife
-- relationship-master
-- relationship-pet
-- relationship-slave
-- rating-SFW
-- rating-MSFW
-- rating-MNSFW
-- rating-NSFW
-- device-PC
-- device-console
-
+- relationship-adult-father : A symbol that depicts the relationship of father. (potentially the male's restroom symbol)
+- relationship-adult-mother : A symbol that depicts the relationship of mother. (potentially the female's restroom symbol)
+- relationship-adult-grandfather : A symbol that depicts the relationship of grandfather.
+- relationship-adult-grandmother : A symbol that depicts the relationship of grandmother.
+- relationship-adult-stepfather : A symbol that depicts the relationship of stepfather.
+- relationship-adult-stepmother : A symbol that depicts the relationship of stepmother.
+- relationship-child-son : A symbol that depicts the relationship of son. (pontentially a smaller version of the male's restroom symbol.)
+- relationship-child-daughter : A symbol that depicts the relationship of daughter. (pontentially a smaller version of the female's restroom symbol.)
+- relationship-child-grandson : A symbol that depicts the relationship of grandson.
+- relationship-child-granddaughter : A symbol that depicts the relationship of granddaughter.
+- relationship-husband : A symbol that depicts the relationship of husband.
+- relationship-wife : A symbol that depicts the relationship of wife.
+- relationship-master : A symbol that depicts the relationship of master.
+- relationship-pet : A symbol that depicts the relationship of pet.
+- relationship-slave : A symbol that depicts the relationship of slave.
+- rating-SFW : The initials for Safe For Work.
+- rating-MSFW : The initials for Moderatly Safe For Work.
+- rating-MNSFW : The initials for Moderatly Not Safe For Work.
+- rating-NSFW : The initials for Not Safe For Work.
+- device-PC : A monitor. For the oldscool computer uses
+- device-console : A videogame console, like a xbox
+- misc-swatch : A swatch for a color. 
+- 
 ## User Interface
 - ui-trash : A trash. Used on many things to indicate deletion
 - ui-eye : An eye looking at the viewer

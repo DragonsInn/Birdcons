@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="Birdcons" horiz-adv-x="17">
+    <font-face font-family="Birdcons"
+      units-per-em="17" ascent="17"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="example"
+      unicode="&#xF101;"
+      horiz-adv-x="17" d=" M4 10L12 10L12 8L4 8zM0 9A8 8 0 1 0 16 9A8 8 0 1 0 0 9z" />
+  </font>
+</defs>
+</svg>

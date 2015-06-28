@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Birdcons</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			margin: 0;
+			padding: 10px 20px;
+		}
+
+		.preview {
+			line-height: 2em;
+		}
+
+		.preview__icon {
+			display: inline-block;
+			width: 32px;
+			text-align: center;
+		}
+
+		.icon {
+			display: inline-block;
+			font-size: 16px;
+		}
+
+		@font-face {
+	font-family: "Birdcons";
+	src: url("Birdcons.svg?f2d1f3435a32b008609cefae3cace1f7#Birdcons") format("svg"),
+url("Birdcons.ttf?f2d1f3435a32b008609cefae3cace1f7") format("truetype"),
+url("Birdcons.woff?f2d1f3435a32b008609cefae3cace1f7") format("woff"),
+url("Birdcons.eot?f2d1f3435a32b008609cefae3cace1f7?#iefix") format("embedded-opentype");
+}
+
+.birdcon {
+	line-height: 1;
+}
+
+.birdcon:before {
+	font-family: Birdcons !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.example:before {
+	content: "\f101";
+}
+
+	</style>
+</head>
+<body>
+	<h1>Birdcons</h1>
+	<div class="preview">
+		<span class="preview__icon">
+			<span class="birdcon example"></span>
+		</span>
+		<span>example</span>
+	</div>
+</body>
+</html>

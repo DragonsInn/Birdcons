@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "Birdcons";
+	src: url("Birdcons.svg?a98bbdc9391d89fea351c17c57bc9436#Birdcons") format("svg"),
+url("Birdcons.ttf?a98bbdc9391d89fea351c17c57bc9436") format("truetype"),
+url("Birdcons.woff?a98bbdc9391d89fea351c17c57bc9436") format("woff"),
+url("Birdcons.eot?a98bbdc9391d89fea351c17c57bc9436?#iefix") format("embedded-opentype");
+}
+
+.birdcon {
+	line-height: 1;
+}
+
+.birdcon:before {
+	font-family: Birdcons !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.example:before {
+	content: "\f101";
+}

@@ -1,0 +1,23 @@
+{
+  "name": "birdcons",
+  "version": "0.0.1",
+  "description": "A sweet little icon font that focuses on bandwidth and simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "webfont",
+    "iconfont",
+    "web",
+    "icon",
+    "font"
+  ],
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^5.0.12",
+    "webfonts-generator": "^0.3.1"
+  }
+}

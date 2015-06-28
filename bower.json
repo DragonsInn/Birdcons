@@ -1,0 +1,30 @@
+{
+  "name": "Birdcons",
+  "version": "0.0.1",
+  "authors": [
+    "Ingwie Phoenix <ingwie2000@googlemail.com>"
+  ],
+  "description": "A sweet little icon font that focuses on bandwidth and simplicity",
+  "main": [
+      "dist/Birdcons.css",
+      "dist/Birdcons.svg",
+      "dist/Birdcons.eot",
+      "dist/Birdcons.woff",
+      "dist/Birdcons.ttf"
+  ],
+  "keywords": [
+    "webfont",
+    "iconfont",
+    "icon",
+    "web",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

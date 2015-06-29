@@ -70,62 +70,62 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-trap-caltrop
 
 ## Status icons
-- status-dead
-- status-fatigued
-- status-healthy
-- status-injured
-- status-married
-- status-monogamous
-- status-polygamous
-- status-pregnant
-- status-sick
-- status-single
+- status-dead : A skull and crossbones.
+- status-fatigued : A frowning emoticon.
+- status-healthy : A smiling emoticon.
+- status-injured : A male restroom symbol limping. 
+- status-married : A pair of wedding rings.
+- status-monogamous : A outline of a circle with a male restroom symbol and a female restroom symbol.
+- status-polygamous : A outline of a circle with a male restroom symbol in between 2 female restroom symbols.
+- status-pregnant : A female restroom symbol shown from the side with a larger belly.
+- status-sick : A male restroom symbol that looks unable to stand.
+- status-single : A outline of a circle with a male restroom symbol inside.
 
 ## Gender icons
-- gender-male
-- gender-female
-- gender-malehermaphrodite
-- gender-femalehermaphrodite
-- gender-shemale
-- gender-cuntboy
-- gender-gendershifter
-- gender-genderless
+- gender-male : The symbol of Mars.
+- gender-female : The Symbol of Venus.
+- gender-malehermaphrodite : The symbol of the hermaphrodite, with the symbols in the opposite places (Male positioned like the female's symbol, female positioned like the male's symbol.)
+- gender-femalehermaphrodite : The symbol of the hermaphrodite.
+- gender-shemale : The symbol of Venus, without the line, that has a arrow that points down half as much as it would normally.
+- gender-cuntboy : A circle with a arrow pointing up halfway inside.
+- gender-gendershifter : The trangender symbol as shown here: (the blue and pink symbol on the same side as the convientional male and female symbols..) https://chatmosphere.files.wordpress.com/2011/01/sf_gender_symbols.png
+- gender-genderless : A outine of a circle.
 
 ## Misc icons
-- misc-musicnote
-- misc-heart
-- misc-threequarterheart
-- misc-halfheart
-- misc-quarterheart
-- misc-emptyheart
-- misc-angelwings
-- misc-angelanddevilwing
-- misc-devilwings
-- zodiac-aquarius
-- zodiac-pisces
-- zodiac-aries
-- zodiac-taurus
-- zodiac-gemini
-- zodiac-cancer
-- zodiac-leo
-- zodiac-virgo
-- zodiac-libra
-- zodiac-scorpio
-- zodiac-sagittarius
-- zodiac-capricorn
-- special-swappable
-- relationship-adult-father : A symbol that depicts the relationship of father. (potentially the male's restroom symbol)
-- relationship-adult-mother : A symbol that depicts the relationship of mother. (potentially the female's restroom symbol)
+- misc-musicnote : A single music note, preferably a eighth note.
+- misc-heart : A complete heart. 
+- misc-threequarterheart : A heart with 1/4ths of it in outline, but 3/4th is filled.
+- misc-halfheart : A heart with 1/2 of it in outline, but 1/2 is filled.
+- misc-quarterheart : A heart with 3/4ths of it in outline, but 1/4th is filled.
+- misc-emptyheart : A outline of a heart.
+- misc-angelwings : A pair of angel wings. Used for the Light oriented beings.
+- misc-angelanddevilwing : A devil wing on one side, an angel wing on another. Used for the Twilight oriented beings.
+- misc-devilwings : A pair of devil wings. Used for the Dark oriented beings.
+- zodiac-aquarius : The zodiac symbol for Aquarius.
+- zodiac-pisces : The zodiac symbol for Pisces.
+- zodiac-aries : The zodiac symbol for Aries.
+- zodiac-taurus : The zodiac symbol for Taurus.
+- zodiac-gemini : The zodiac symbol for  Gemini.
+- zodiac-cancer : The zodiac symbol for Cancer.
+- zodiac-leo : The zodiac symbol for Leo.
+- zodiac-virgo : The zodiac symbol for Virgo.
+- zodiac-libra : The zodiac symbol for Libra.
+- zodiac-scorpio : The zodiac symbol for Scorpio.
+- zodiac-sagittarius : The zodiac symbol for Sagittarius. 
+- zodiac-capricorn : The zodiac symbol for Capricorn.
+- special-swappable : Either 2 arrows pointing in opposite directions or a singular line pointing left and right.
+- relationship-adult-father : A symbol that depicts the relationship of father. (the male's restroom symbol)
+- relationship-adult-mother : A symbol that depicts the relationship of mother. (the female's restroom symbol)
 - relationship-adult-grandfather : A symbol that depicts the relationship of grandfather.
 - relationship-adult-grandmother : A symbol that depicts the relationship of grandmother.
 - relationship-adult-stepfather : A symbol that depicts the relationship of stepfather.
 - relationship-adult-stepmother : A symbol that depicts the relationship of stepmother.
-- relationship-child-son : A symbol that depicts the relationship of son. (pontentially a smaller version of the male's restroom symbol.)
-- relationship-child-daughter : A symbol that depicts the relationship of daughter. (pontentially a smaller version of the female's restroom symbol.)
+- relationship-child-son : A symbol that depicts the relationship of son. (a smaller version of the male's restroom symbol.)
+- relationship-child-daughter : A symbol that depicts the relationship of daughter. (a smaller version of the female's restroom symbol.)
 - relationship-child-grandson : A symbol that depicts the relationship of grandson.
 - relationship-child-granddaughter : A symbol that depicts the relationship of granddaughter.
-- relationship-husband : A symbol that depicts the relationship of husband.
-- relationship-wife : A symbol that depicts the relationship of wife.
+- relationship-husband : A symbol that depicts the relationship of husband. (the male's restroom symbol wearing a tuxedo)
+- relationship-wife : A symbol that depicts the relationship of wife. (the female's restroom symbol wearing a wedding dress)
 - relationship-master : A symbol that depicts the relationship of master.
 - relationship-pet : A symbol that depicts the relationship of pet.
 - relationship-slave : A symbol that depicts the relationship of slave.

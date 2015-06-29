@@ -24,33 +24,33 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - attribute-bash : A burst.
 
 ## Weapon icons
--weapon-blade-axe
-- weapon-blade-chainsaw
-- weapon-blade-claymore
-- weapon-blade-dagger
-- weapon-blade-katana
-- weapon-blade-katar
-- weapon-blade-longsword
-- weapon-blade-nodachi
-- weapon-blade-rapier
-- weapon-blade-scimitar
-- weapon-blade-scythe
-- weapon-blade-snakesword
-- weapon-blade-sword
-- weapon-blade-tanto
-- weapon-blade-twinblade
-- weapon-blade-waraxe
-- weapon-blunt-club
-- weapon-blunt-flail
-- weapon-blunt-hammer
-- weapon-blunt-mace
-- weapon-blunt-rod
-- weapon-blunt-staff
-- weapon-blunt-wand
-- weapon-blunt-warhammer
-- weapon-misc-drill
-- weapon-misc-fan
-- weapon-misc-whip
+-weapon-blade-axe : A normal, single bit axe.
+- weapon-blade-chainsaw : A chainsaw with a pull cord as the starting mechanism.
+- weapon-blade-claymore : A claymore sword (http://www.gothicfantasy.com/Swords/KE2014.jpg)
+- weapon-blade-dagger : 
+- weapon-blade-katana : 
+- weapon-blade-katar : 
+- weapon-blade-longsword : 
+- weapon-blade-nodachi : 
+- weapon-blade-rapier : 
+- weapon-blade-scimitar : 
+- weapon-blade-scythe : 
+- weapon-blade-snakesword : 
+- weapon-blade-sword : 
+- weapon-blade-tanto : 
+- weapon-blade-twinblade : 
+- weapon-blade-waraxe : 
+- weapon-blunt-club : 
+- weapon-blunt-flail : 
+- weapon-blunt-hammer : 
+- weapon-blunt-mace : 
+- weapon-blunt-rod : 
+- weapon-blunt-staff : 
+- weapon-blunt-wand : 
+- weapon-blunt-warhammer : 
+- weapon-misc-drill : 
+- weapon-misc-fan : 
+- weapon-misc-whip : 
 - weapon-polearm-baridiche
 - weapon-polearm-glaive
 - weapon-polearm-halberd
@@ -65,9 +65,9 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-ranged-slingshot
 - weapon-thrown-bomb
 - weapon-thrown-boomerang
-- weapon-thrown-chakram
-- weapon-thrown-throwingknife
-- weapon-trap-caltrop
+- weapon-thrown-chakram : A ring with a visible edge.
+- weapon-thrown-throwingknife : A small knife. The edge looks less sharp than a dagger's edge.
+- weapon-trap-caltrop : A set of 3 caltrops.
 
 ## Status icons
 - status-dead : A skull and crossbones.

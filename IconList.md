@@ -24,7 +24,7 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - attribute-bash : A burst.
 
 ## Weapon icons
--weapon-blade-axe : A normal, single bit axe.
+- weapon-blade-axe : A normal, single bit axe.
 - weapon-blade-chainsaw : A chainsaw with a pull cord as the starting mechanism.
 - weapon-blade-claymore : A claymore sword (http://www.gothicfantasy.com/Swords/KE2014.jpg)
 - weapon-blade-dagger : A dagger. ( http://www.medievalcollectibles.com/images/Product/large/401760.png)

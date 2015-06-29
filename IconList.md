@@ -7,21 +7,21 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 # list
 
 ## Elemental and attribute icons
-- elementless
-- element-major-fire
-- element-major-water
-- element-major-earth
-- element-major-air
-- element-major-dark
-- element-major-light
-- element-minor-ice
-- element-minor-nature
-- element-minor-electricity
-- element-minor-blood
-- element-minor-poison
-- attribute-slash
-- attribute-pierce
-- attribute-bash
+- elementless : A 6 pointed star with a no symbol over it.
+- element-major-fire : The flame of a fire.
+- element-major-water : A teardrop shape.
+- element-major-earth : A boulder.
+- element-major-air : A tornado.
+- element-major-dark : A moon.
+- element-major-light : A sun.
+- element-minor-ice : A icicle.
+- element-minor-nature : A tree.
+- element-minor-electricity : A bolt of lightning.
+- element-minor-blood : A bleeding slash icon (see the slash attribute icon following the one below)
+- element-minor-poison : 3 bubbles with a skull below the smallest bubble
+- attribute-slash : A burst styled slash icon.
+- attribute-pierce : A triangle pointing to one side, with a burst on the flat side.
+- attribute-bash : A burst.
 
 ## Weapon icons
 -weapon-blade-axe

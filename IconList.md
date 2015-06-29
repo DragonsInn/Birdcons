@@ -134,9 +134,9 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - rating-MNSFW : The initials for Moderatly Not Safe For Work.
 - rating-NSFW : The initials for Not Safe For Work.
 - device-PC : A monitor. For the oldscool computer uses
-- device-console : A videogame console, like a xbox
+- device-console : A videogame console, like a xbox 
 - misc-swatch : A swatch for a color. 
-- 
+
 ## User Interface
 - ui-trash : A trash. Used on many things to indicate deletion
 - ui-eye : An eye looking at the viewer

@@ -27,7 +27,7 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 -weapon-blade-axe : A normal, single bit axe.
 - weapon-blade-chainsaw : A chainsaw with a pull cord as the starting mechanism.
 - weapon-blade-claymore : A claymore sword (http://www.gothicfantasy.com/Swords/KE2014.jpg)
-- weapon-blade-dagger : 
+- weapon-blade-dagger : A dagger
 - weapon-blade-katana : 
 - weapon-blade-katar : 
 - weapon-blade-longsword : 
@@ -51,21 +51,21 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-misc-drill : 
 - weapon-misc-fan : 
 - weapon-misc-whip : 
-- weapon-polearm-baridiche
-- weapon-polearm-glaive
-- weapon-polearm-halberd
-- weapon-polearm-naginata
-- weapon-polearm-spear
-- weapon-ranged-blowdart
-- weapon-ranged-bow
-- weapon-ranged-crossbow
-- weapon-ranged-pistol
-- weapon-ranged-rifle
-- weapon-ranged-shotgun
-- weapon-ranged-slingshot
-- weapon-thrown-bomb
-- weapon-thrown-boomerang
-- weapon-thrown-chakram : A ring with a visible edge.
+- weapon-polearm-baridiche : 
+- weapon-polearm-glaive : 
+- weapon-polearm-halberd : 
+- weapon-polearm-naginata : 
+- weapon-polearm-spear : 
+- weapon-ranged-blowdart : A blowgun with a dart beside it. ( https://www.oklachahta.org/pics/new03_11.jpg )
+- weapon-ranged-bow : 
+- weapon-ranged-crossbow : 
+- weapon-ranged-pistol : 
+- weapon-ranged-rifle : 
+- weapon-ranged-shotgun : 
+- weapon-ranged-slingshot : 
+- weapon-thrown-bomb : 
+- weapon-thrown-boomerang : 
+- weapon-thrown-chakram : A ring with a visible edge. ( http://vignette3.wikia.nocookie.net/hercxena/images/2/2e/Chakram.gif/revision/latest?cb=20091010183016 )
 - weapon-thrown-throwingknife : A small knife. The edge looks less sharp than a dagger's edge.
 - weapon-trap-caltrop : A set of 3 caltrops.
 

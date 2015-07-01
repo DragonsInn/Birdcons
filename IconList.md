@@ -24,15 +24,15 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - attribute-bash : A burst.
 
 ## Weapon icons
-- weapon-blade-axe : A normal, single bit axe.
-- weapon-blade-chainsaw : A chainsaw with a pull cord as the starting mechanism.
+- weapon-blade-axe : A normal, single bit axe. ( http://images2.opticsplanet.com/365-240-ffffff/opplanet-marbles-camp-axe-15-75in-mr701sb-main.jpg )
+- weapon-blade-chainsaw : A chainsaw with a pull cord as the starting mechanism. ( http://www.writeups.org/img/inset/WLOCKdoom_chainsawbeaver_h.jpg )
 - weapon-blade-claymore : A claymore sword (http://www.gothicfantasy.com/Swords/KE2014.jpg)
 - weapon-blade-dagger : A dagger. ( http://www.medievalcollectibles.com/images/Product/large/401760.png)
 - weapon-blade-katana : A katana. ( http://vignette2.wikia.nocookie.net/fallout/images/e/e9/Katana.png/revision/latest?cb=20110927225512 )
 - weapon-blade-katar : A katar. ( http://aazealh.net/Divers/Kushan/Katar.jpg)
-- weapon-blade-longsword : 
-- weapon-blade-nodachi : 
-- weapon-blade-rapier : 
+- weapon-blade-longsword : A longsword. ( http://www.coldsteel.com/images/products/88ITS_m.jpg )
+- weapon-blade-nodachi : A odachi sword. ( http://vignette2.wikia.nocookie.net/bleach-rp/images/f/f5/Odachi.png/revision/latest?cb=20130731024152 )
+- weapon-blade-rapier : A rapier. ( http://www.medievalcollectibles.com/images/PRODUCT/large/MA-803S_1_.png )
 - weapon-blade-scimitar : 
 - weapon-blade-scythe : 
 - weapon-blade-snakesword : 
@@ -66,8 +66,8 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-thrown-bomb : 
 - weapon-thrown-boomerang : 
 - weapon-thrown-chakram : A ring with a visible edge. ( http://vignette3.wikia.nocookie.net/hercxena/images/2/2e/Chakram.gif/revision/latest?cb=20091010183016 )
-- weapon-thrown-throwingknife : A small knife. The edge looks less sharp than a dagger's edge.
-- weapon-trap-caltrop : A set of 3 caltrops.
+- weapon-thrown-throwingknife : A small knife. The edge looks less sharp than a dagger's edge. ( http://www.swords24.eu/images/products/en/Mossberg_Military_Leather_Handle_Fixed_Blade_MOUSMCK.jpg )
+- weapon-trap-caltrop : A set of 3 caltrops. ( https://s-media-cache-ak0.pinimg.com/736x/17/19/4b/17194baed4a7ea72c0bede4fe0fe1457.jpg )
 
 ## Status icons
 - status-dead : A skull and crossbones.

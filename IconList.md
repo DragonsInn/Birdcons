@@ -33,9 +33,9 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-blade-longsword : A longsword. ( http://www.coldsteel.com/images/products/88ITS_m.jpg )
 - weapon-blade-nodachi : A odachi sword. ( http://vignette2.wikia.nocookie.net/bleach-rp/images/f/f5/Odachi.png/revision/latest?cb=20130731024152 )
 - weapon-blade-rapier : A rapier. ( http://www.medievalcollectibles.com/images/PRODUCT/large/MA-803S_1_.png )
-- weapon-blade-scimitar : 
-- weapon-blade-scythe : 
-- weapon-blade-snakesword : 
+- weapon-blade-scimitar : A scimitar. (http://vignette3.wikia.nocookie.net/dnd4/images/b/b0/Sh2354.jpg/revision/latest?cb=20150119143455 )
+- weapon-blade-scythe : A scythe. It's edges should look rather sharp. ( http://images2.wikia.nocookie.net/__cb20110903134747/vampirewars/images/a/a0/Modern_Scythe.png )
+- weapon-blade-snakesword : A snakesword in it's extended 'mode'. ( http://oyster.ignimgs.com/wordpress/www.ign.com/9474/2010/11/Ivy_Blade_I_by_Metatron87-600x726.jpg )
 - weapon-blade-sword : 
 - weapon-blade-tanto : 
 - weapon-blade-twinblade : 

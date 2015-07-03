@@ -36,16 +36,16 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-blade-scimitar : A scimitar. (http://vignette3.wikia.nocookie.net/dnd4/images/b/b0/Sh2354.jpg/revision/latest?cb=20150119143455 )
 - weapon-blade-scythe : A scythe. It's edges should look rather sharp. ( http://images2.wikia.nocookie.net/__cb20110903134747/vampirewars/images/a/a0/Modern_Scythe.png )
 - weapon-blade-snakesword : A snakesword in it's extended 'mode'. ( http://oyster.ignimgs.com/wordpress/www.ign.com/9474/2010/11/Ivy_Blade_I_by_Metatron87-600x726.jpg )
-- weapon-blade-sword : 
-- weapon-blade-tanto : 
-- weapon-blade-twinblade : 
-- weapon-blade-waraxe : 
-- weapon-blunt-club : 
-- weapon-blunt-flail : 
-- weapon-blunt-hammer : 
-- weapon-blunt-mace : 
-- weapon-blunt-rod : 
-- weapon-blunt-staff : 
+- weapon-blade-sword : A regular sword.
+- weapon-blade-tanto : A tanto. ( http://vignette1.wikia.nocookie.net/bleach-rp/images/6/6d/Japanese-swords-samurai-swords-musashi-asuka-tanto.jpg/revision/latest?cb=20140220191913 )
+- weapon-blade-twinblade : A twinblade. ( http://i.imgur.com/uNGUYKZ.png )
+- weapon-blade-waraxe : A double bit axe with a long handle. ( http://vignette2.wikia.nocookie.net/mkwikia/images/f/f0/Battle_Axe.jpg/revision/latest?cb=20110515203935 )
+- weapon-blunt-club : A club. ( https://bigstickcombat.files.wordpress.com/2010/04/trenchclub.jpg )
+- weapon-blunt-flail : A flail. ( http://vignette1.wikia.nocookie.net/dnd4/images/4/45/Flail-1-ball-91-p.jpg/revision/latest?cb=20150119141024 )
+- weapon-blunt-hammer : A hammer: the weapon, not the tool ( http://img1.wikia.nocookie.net/__cb20131021180909/finalfantasy/images/8/89/Hammer-ffix-weapon.png )
+- weapon-blunt-mace : A mace. ( http://vignette3.wikia.nocookie.net/forgottenrealms/images/0/06/Light-mace1.jpg/revision/latest?cb=20111012051505 )
+- weapon-blunt-rod : A rod. ( http://www.xump.com/Images/Products/Soft-Iron-Rod-500A.jpg )
+- weapon-blunt-staff : A magical staff. ( http://img3.wikia.nocookie.net/__cb20120305234613/finalfantasy/images/2/2a/Manikin-Oak_Staff.png )
 - weapon-blunt-wand : 
 - weapon-blunt-warhammer : 
 - weapon-misc-drill : 

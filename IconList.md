@@ -46,11 +46,11 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-blunt-mace : A mace. ( http://vignette3.wikia.nocookie.net/forgottenrealms/images/0/06/Light-mace1.jpg/revision/latest?cb=20111012051505 )
 - weapon-blunt-rod : A rod. ( http://www.xump.com/Images/Products/Soft-Iron-Rod-500A.jpg )
 - weapon-blunt-staff : A magical staff. ( http://img3.wikia.nocookie.net/__cb20120305234613/finalfantasy/images/2/2a/Manikin-Oak_Staff.png )
-- weapon-blunt-wand : 
-- weapon-blunt-warhammer : 
-- weapon-misc-drill : 
-- weapon-misc-fan : 
-- weapon-misc-whip : 
+- weapon-blunt-wand : A wand. ( http://nerdtrek.com/wp-content/uploads/2011/02/Harry-Potters-Wand-Magic-Wands.jpg )
+- weapon-blunt-warhammer : A warhammer. ( http://www.medievalcollectibles.com/images/Product/large/887008.png )
+- weapon-misc-drill : A drill. Not the tool. ( http://pre09.deviantart.net/ee25/th/pre/f/2012/124/3/5/358a15c6d99fcaf42eb34c90c1063ca3-d4yiboy.png )
+- weapon-misc-fan : A war fan. ( http://static.comicvine.com/uploads/original/6/68857/1299354-z.gif )
+- weapon-misc-whip : A whip. ( http://www.web-donkey.com/whips/signal.gif )
 - weapon-polearm-baridiche : 
 - weapon-polearm-glaive : 
 - weapon-polearm-halberd : 

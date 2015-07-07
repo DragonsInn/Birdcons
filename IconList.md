@@ -51,11 +51,11 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-misc-drill : A drill. Not the tool. ( http://pre09.deviantart.net/ee25/th/pre/f/2012/124/3/5/358a15c6d99fcaf42eb34c90c1063ca3-d4yiboy.png )
 - weapon-misc-fan : A war fan. ( http://static.comicvine.com/uploads/original/6/68857/1299354-z.gif )
 - weapon-misc-whip : A whip. ( http://www.web-donkey.com/whips/signal.gif )
-- weapon-polearm-baridiche : 
-- weapon-polearm-glaive : 
-- weapon-polearm-halberd : 
-- weapon-polearm-naginata : 
-- weapon-polearm-spear : 
+- weapon-polearm-baridiche : A baridiche. ( http://www.medievalcollectibles.com/images/Product/large/MCI-2809.png )
+- weapon-polearm-glaive : A glaive. ( https://upload.wikimedia.org/wikipedia/commons/3/3c/Glaives_by_Wendelin_Boeheim.jpg )
+- weapon-polearm-halberd : A halberd. ( http://www.medievalcollectibles.com/images/Product/large/XD637.png )
+- weapon-polearm-naginata : A naginata. ( http://img2.wikia.nocookie.net/__cb20140114014724/warhammer40kfanon/images/c/c2/Naginata.jpg )
+- weapon-polearm-spear : A spear. ( http://vignette4.wikia.nocookie.net/dnd4/images/d/d0/Boar-spear-95boask-full-1.jpg/revision/latest?cb=20150119133620 )
 - weapon-ranged-blowdart : A blowgun with a dart beside it. ( https://www.oklachahta.org/pics/new03_11.jpg )
 - weapon-ranged-bow : 
 - weapon-ranged-crossbow : 

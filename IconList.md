@@ -57,14 +57,14 @@ BIRD3 and Birdcons are both focused ont he apects of respecting bandwidth and sp
 - weapon-polearm-naginata : A naginata. ( http://img2.wikia.nocookie.net/__cb20140114014724/warhammer40kfanon/images/c/c2/Naginata.jpg )
 - weapon-polearm-spear : A spear. ( http://vignette4.wikia.nocookie.net/dnd4/images/d/d0/Boar-spear-95boask-full-1.jpg/revision/latest?cb=20150119133620 )
 - weapon-ranged-blowdart : A blowgun with a dart beside it. ( https://www.oklachahta.org/pics/new03_11.jpg )
-- weapon-ranged-bow : 
-- weapon-ranged-crossbow : 
-- weapon-ranged-pistol : 
-- weapon-ranged-rifle : 
-- weapon-ranged-shotgun : 
-- weapon-ranged-slingshot : 
-- weapon-thrown-bomb : 
-- weapon-thrown-boomerang : 
+- weapon-ranged-bow : A bow with a arrow beside it. ( https://img.wondercostumes.com/products/10-3/bow-arrow-set.jpg )
+- weapon-ranged-crossbow : A crossbow with a bolt beside it. ( https://minimumworld.com/images/med/osc/aw01-600.jpg )
+- weapon-ranged-pistol : A pistol. ( https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GP_K100_target.jpg/220px-GP_K100_target.jpg )
+- weapon-ranged-rifle : A rifle. ( https://cdn.shopify.com/s/files/1/0447/1729/products/STKL4073-2_600x600.jpg?v=1524686560 )
+- weapon-ranged-shotgun : A shotgun. ( https://royalarms.com/wp-content/uploads/2012/10/RBS-1-or-2-4-1.jpg )
+- weapon-ranged-slingshot : A slingshot with a rock. ( https://st2.depositphotos.com/1087772/5398/i/950/depositphotos_53985675-stock-photo-handmade-wooden-slingshot-on-white.jpg)
+- weapon-thrown-bomb : A bomb with it's fuse lit. ( https://cdn.pixabay.com/photo/2017/01/31/16/59/bomb-2025548_960_720.png )
+- weapon-thrown-boomerang : A simple boomerang. ( https://cdn.shopify.com/s/files/1/1446/8412/products/joe-boom_2048x.jpg?v=1510135200 )
 - weapon-thrown-chakram : A ring with a visible edge. ( http://vignette3.wikia.nocookie.net/hercxena/images/2/2e/Chakram.gif/revision/latest?cb=20091010183016 )
 - weapon-thrown-throwingknife : A small knife. The edge looks less sharp than a dagger's edge. ( http://www.swords24.eu/images/products/en/Mossberg_Military_Leather_Handle_Fixed_Blade_MOUSMCK.jpg )
 - weapon-trap-caltrop : A set of 3 caltrops. ( https://s-media-cache-ak0.pinimg.com/736x/17/19/4b/17194baed4a7ea72c0bede4fe0fe1457.jpg )
